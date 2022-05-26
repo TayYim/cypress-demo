@@ -1,5 +1,7 @@
 # About
 
+组员：严宋扬 贺浩庭
+
 Homework see langchao.spec.js
 
 # cypress-demo
