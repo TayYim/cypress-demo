@@ -1,3 +1,7 @@
+# About
+
+Homework see langchao.spec.js
+
 # cypress-demo
 
 ## Cypress 工程搭建步骤
