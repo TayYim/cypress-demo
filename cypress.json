@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://demoqa.com",
+    "testFiles":"*demo/**.spec.js"
+}
